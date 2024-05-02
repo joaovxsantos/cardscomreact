@@ -33,16 +33,8 @@ npm run dev
 O projeto abrirá no seu navegador padrão e está pronto para uso!
 
 ## Resultado do Projeto
+* Desktop
 ![Dekstop](image-1.png)
-
-
-
-
-
-
-
-
-
 
 
 * Mobile      
