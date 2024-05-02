@@ -7,24 +7,33 @@
 * CSS3
 ## Acessando o projeto
 Você pode acessar o projeto clicando no link: [Cards com React](https://cards-com-react.netlify.app/) 
-## Rodando os arquivos do Projeto
-Você pode baixar este repositório clicando em Code e fazendo o Download Zip
-![image](https://github.com/joaovxsantos/ExactTime-Site/assets/97799540/c0e79b1a-2690-4404-a45b-eff276124325)  
-Ao baixar o Arquivo, você irá se deparar com os seguintes arquivos:
-![image](![alt text](image.png))
-### Index.html
-> Arquivo que contém código HTML, responsável pela estrutura da página através de suas tags. Além de que, quando aberto no navegador mostra a página web do projeto.  
-### Style.css
-> Arquivo que contém o código CSS, responsável por estilizar a página. Quando aberto, é possível visualizar todos os estilos utilizados no projeto.
-### Images
-> Pasta com as imagens utilizadas no projeto.
-### README.md
-> Arquivo de texto responsável pela documentação do projeto. Esse arquivo aqui no qual você está lendo.  
-## Resultado
-* Desktop  
+## Rodando o Projeto
+Para compilar o projeto, você precisa ter instalado o ```Visual Studio Code``` e o ```Node.js```.  
 
+[Download Visual Studio Code](https://code.visualstudio.com/download)      
 
-https://github.com/joaovxsantos/ExactTime-Site/assets/97799540/9c2ba02c-fe12-41ff-a303-d6928f31e7bd
+[Download Node.JS](https://nodejs.org/en/download/current)
+
+Após a instalação de ambos, você deve baixar os arquivos do projeto através do download.zip e extrai-los.
+![image](https://github.com/joaovxsantos/todo/assets/97799540/e110ea22-15af-44ce-822b-c17f6be56ecf)  
+Após a extração, abra a pasta no Visual Studio Code.
+
+Ao abrir a pasta do projeto no Visual Studio Code, clique em "Terminal"
+![image](https://github.com/joaovxsantos/todo/assets/97799540/e6954f4b-aec7-4273-a5bb-5427653d9463)  
+
+Dentro do terminal, digite os seguintes códigos:  
+```
+npm install
+```
+
+```
+npm run dev
+```
+
+O projeto abrirá no seu navegador padrão e está pronto para uso!
+
+## Resultado do Projeto
+![Dekstop](image-1.png)
 
 
 
