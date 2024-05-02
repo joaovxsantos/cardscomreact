@@ -38,4 +38,4 @@ O projeto abrirá no seu navegador padrão e está pronto para uso!
 
 
 * Mobile      
-  ![mobile (1)](https://github.com/joaovxsantos/ExactTime-Site/assets/97799540/27151fb0-b2af-4b8a-b580-36214ea920ab)
+  ![mobile](https://github.com/joaovxsantos/cardscomreact/assets/97799540/7ac124c1-2ee4-4a15-941c-ab29cf4bb6f5)
