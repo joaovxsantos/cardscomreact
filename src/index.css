@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f6f9ff;
+  gap: 30px;
+}
